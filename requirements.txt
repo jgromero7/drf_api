@@ -1,0 +1,7 @@
+Django==2.2.5
+djangorestframework==3.10.3
+PyMySQL==0.9.3
+python-dotenv==0.10.3
+django-environ==0.4.5
+# USE IN PRODUCTION
+gunicorn==19.9.0
