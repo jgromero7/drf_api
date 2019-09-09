@@ -6,6 +6,10 @@ __pycache__
 db.sqlite3
 media
 
+# Static Files
+sfiles
+static
+
 # Configurations Files
 .env
 gunicorn_start.sh
